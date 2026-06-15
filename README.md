@@ -38,3 +38,6 @@ To understand how an Arduino microcontroller controls external components and ho
 * Signal Systems
 * Electronic Displays
 * Embedded System Prototyping
+## Demo Video
+[Click here to view project demo]
+(https://youtu.be/GKNuI6m6Zak)
