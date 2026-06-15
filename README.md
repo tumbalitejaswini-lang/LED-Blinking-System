@@ -9,7 +9,7 @@ To understand how an Arduino microcontroller controls external components and ho
 
 ~ Components Used :
 * Arduino Uno
-* LEDs
+* LEDs - 4
 * 220Ω Resistors
 * Breadboard
 * Jumper Wires
